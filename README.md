@@ -22,7 +22,7 @@ python3 -m venv spotifyenv
 2. Activate the virtual environment:
 
 ```
-source spotifyenv/bin/activate
+spotifyenv/Scripts/activate
 ```
 
 3. Clone this repository to your local machine:
