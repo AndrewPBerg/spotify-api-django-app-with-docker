@@ -28,7 +28,7 @@ spotifyenv/Scripts/activate
 3. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/briannaswan/spotify-api-django-app-with-docker.git
+gh repo clone AndrewPBerg/spotify-api-django-app-with-docker
 ```
 
 4. Change into the project directory:
